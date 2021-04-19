@@ -1,7 +1,7 @@
 #!/bin/bash
 
-apt-get install update
-apt-get install upgrade
+apt-get update
+apt-get upgrade
 apt-get install wget
 apt-get install proot
 apt-get install git
