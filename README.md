@@ -12,4 +12,4 @@ cd android-xmrig-miner
 
 chmod +x install1.sh
 
-install1.sh
+./install1.sh
