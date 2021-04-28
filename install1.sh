@@ -12,10 +12,8 @@ git clone git://github.com/MFDGaming/ubuntu-in-termux.git
 
 sleep 10
 
-cd ../ubuntu-in-termux/
+chmod +x ../ubuntu-in-termux/ubuntu.sh
 
-chmod +x ubuntu.sh
-
-./ubuntu.sh
+./../ubuntu-in-termux/ubuntu.sh
 
 
