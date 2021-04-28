@@ -2,9 +2,9 @@
 
 apt-get update
 apt-get upgrade
-apt-get install wget
-apt-get install proot
-apt-get install git
+apt-get install wget -y
+apt-get install proot -y
+apt-get install git -y
 
 cd ~
 
