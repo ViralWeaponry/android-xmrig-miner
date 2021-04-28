@@ -10,12 +10,10 @@ cd ~
 
 git clone git://github.com/MFDGaming/ubuntu-in-termux.git
 
-cd ..
-
-cd ubuntu-in-termux
+cd ../ubuntu-in-termux/
 
 chmod +x ubuntu.sh
 
-./startubuntu.sh
+./ubuntu.sh
 
 
