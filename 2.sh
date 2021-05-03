@@ -1,7 +1,5 @@
 #!/bin/bash
 
-./startubuntu.sh
-
 apt update
 
 apt-get install git build-essential cmake libuv1-dev libmicrohttpd-dev libssl-dev -y
